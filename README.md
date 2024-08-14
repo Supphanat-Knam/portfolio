@@ -26,7 +26,7 @@ This folder contains the development of a web application (HTML, JS, PHP, CSS).
 
 This folder contains the development of an application using React Native.
 
-1.[GameConsole](https://drive.google.com/file/d/1PReFEz6XZt19R-wuJkbaireS7egouv_k/view?)
+1. [GameConsole](https://drive.google.com/file/d/1PReFEz6XZt19R-wuJkbaireS7egouv_k/view?)
 
 ## certificate
 
